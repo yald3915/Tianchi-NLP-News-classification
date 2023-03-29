@@ -1,6 +1,6 @@
-This file is the baseline code for Tianchi-NLP-Traditional Chinese Medicine 
+This file is the baseline code for Tianchi NLP TCM classification
 
-以上文件是Tianchi-NLP-Traditional Chinese Medicine （天池-NLP-中医药）比赛的baseline代码
+以上文件是Tianchi NLP TCM classification（天池nlp中医分类）比赛的baseline代码
 
 ⭐Please star to download the file
 
